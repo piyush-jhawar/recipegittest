@@ -1,2 +1,2 @@
 This the recipe of cake
-NewFeature
+Editing in Master to Create Conflict
