@@ -1,2 +1,2 @@
 This the recipe of cake
-NewFeature
+Creating Merge conflict
