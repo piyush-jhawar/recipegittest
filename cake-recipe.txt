@@ -1,2 +1,4 @@
 This the recipe of cake
 Editing in Master to Create Conflict
+Creating Merge conflict
+
